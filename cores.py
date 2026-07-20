@@ -1,4 +1,3 @@
-# Códigos ANSI para cores
 RESET = "\033[0m"
 BOLD = "\033[1m"
 CYAN = "\033[96m"
